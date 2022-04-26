@@ -7,7 +7,6 @@ header{
     text-align: center;
 }
 header ul li{
-    display: block;
     margin-right: 5%;
     margin-left: 5%;
 }
