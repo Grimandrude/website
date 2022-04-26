@@ -6,7 +6,7 @@ header{
     height: 50%;
 }
 header ul li{
-    display: inline-block;
+    display: block;
     margin-right: 5%;
     margin-left: 5%;
 }
