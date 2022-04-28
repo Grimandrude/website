@@ -17,3 +17,7 @@ main{
     height:1000px;
     background-color: blue;
 }
+img{
+    height: 50%;
+    width: 25%;
+}
