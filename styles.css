@@ -1,0 +1,29 @@
+header {
+  background-color: purple;
+  text-align: center;
+  width: 100%;
+  height: 100px;
+}
+header ul li {
+  margin-right: 5%;
+  margin-left: 5%;
+  text-align: left;
+}
+
+main {
+  margin-top: 100%;
+  height: 100px;
+  background-color: green;
+}
+
+div.links img {
+  margin: 0 auto;
+  max-width: 20%;
+}
+div.links img:hover {
+  max-width: 30%;
+}
+
+h3 {
+  text-align: center;
+}
