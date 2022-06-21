@@ -1,3 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: "Poppins", Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-size: 24pt;
+  color: #fff;
+}
+
+img.ytu {
+  max-width: 20%;
+}
+img.ytu:hover {
+  max-width: 30%;
+}
 header {
   background-color: purple;
   text-align: center;
@@ -26,4 +42,8 @@ div.links img:hover {
 
 h3 {
   text-align: center;
+}
+.twitchimg {
+  height: 180px;
+  width: 180px;
 }
