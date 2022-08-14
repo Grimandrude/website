@@ -34,7 +34,7 @@ main {
 
 div.links img {
   margin: 0 auto;
-  max-width: 20%;
+  max-width: 30%;
 }
 div.links img:hover {
   max-width: 30%;
@@ -42,8 +42,4 @@ div.links img:hover {
 
 h3 {
   text-align: center;
-}
-.twitchimg {
-  height: 180px;
-  width: 180px;
 }
